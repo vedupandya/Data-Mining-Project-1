@@ -1,5 +1,13 @@
 # Data-Mining-Project-1
 Data Preprocessing, EDA and Regression Analysis Project for IT496
+## Group Members
+- Kalhar Patel (202101009)
+- Vedant Pandya (202101063)
+- Suyash Bhagat (202101085)
+- Dhyey Vachhani (202101190)
+- Jalp Patel (202101267)
+  
+## DATASET: Seoul Bike Trip
 
 ## PROJECT SUMMARY:
 
